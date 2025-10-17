@@ -29,7 +29,7 @@ Affiliation: National University of Sciences and Technology (NUST)
  Conducted tests on MVTec AD dataset across metal, fabric, and PCB defect categories.
  Compared against U-Net, DeepLabV3+, and DINO-based few-shot baselines.
 
-4. Project Architecture Diagram (Textual)
+ # Project Architecture Diagram (Textual)
 
          ┌────────────────────────┐
          │  Industrial Image Input │
